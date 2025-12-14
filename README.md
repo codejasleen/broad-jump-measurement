@@ -10,7 +10,7 @@ This repository contains the main script `model.py`.
 
 The project includes a simple model that calculates the distance of a straight broad jump.
 
-**Note:** This model only accepts a single input: the athlete's height. `model.py` expects the height (in meters) and uses that value to estimate the broad jump distance, then prints or returns the result in meters.
+**Note:** This model only accepts a single input: the athlete's height. `model.py` expects the height (in centimeters) and uses that value to estimate the broad jump distance, then prints or returns the result in meters.
 
 ### Inputs
 
